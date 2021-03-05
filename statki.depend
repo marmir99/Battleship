@@ -1,0 +1,586 @@
+# depslib dependency file v1.0
+1575157404 source:c:\users\karol\desktop\statki\main.cpp
+	<iostream>
+	<cmath>
+	"Plansza.h"
+	"Jednomasztowiec.h"
+	"Statek.h"
+	"Dwumasztowiec.h"
+	"Trzymasztowiec.h"
+	"Czteromasztowiec.h"
+	"Pieciomasztowiec.h"
+	"Gracz.h"
+	"Menu.h"
+
+1575113726 source:c:\users\karol\desktop\statki\statek.cpp
+	<iostream>
+	<cmath>
+	"Statek.h"
+
+1575113726 c:\users\karol\desktop\statki\statek.h
+	<iostream>
+	<cmath>
+
+1575066577 source:c:\users\admin\desktop\najnowsze statki\statki\main.cpp
+	<iostream>
+	<cmath>
+	"Plansza.h"
+	"Jednomasztowiec.h"
+	"Statek.h"
+
+1575066694 c:\users\admin\desktop\najnowsze statki\statki\plansza.h
+	<iostream>
+	<cmath>
+	"Jednomasztowiec.h"
+
+1575066716 c:\users\admin\desktop\najnowsze statki\statki\jednomasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575065430 c:\users\admin\desktop\najnowsze statki\statki\statek.h
+	<iostream>
+	<cmath>
+
+1575065631 source:c:\users\admin\desktop\najnowsze statki\statki\statek.cpp
+	<iostream>
+	<cmath>
+	"Statek.h"
+
+1575066577 source:c:\users\admin\desktop\najnowsze statki\statki\jednomasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Jednomasztowiec.h"
+
+1575066577 source:c:\users\admin\desktop\najnowsze statki\statki\plansza.cpp
+	<iostream>
+	<cmath>
+	"Plansza.h"
+
+1575105885 source:c:\users\admin\desktop\statki23_35\jednomasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Jednomasztowiec.h"
+
+1575106000 c:\users\admin\desktop\statki23_35\jednomasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575034548 c:\users\admin\desktop\statki23_35\statek.h
+	<iostream>
+	<cmath>
+
+1575106187 source:c:\users\admin\desktop\statki23_35\main.cpp
+	<iostream>
+	<cmath>
+	"Plansza.h"
+	"Jednomasztowiec.h"
+	"Statek.h"
+
+1575034548 c:\users\admin\desktop\statki23_35\plansza.h
+	<iostream>
+	<cmath>
+	"Jednomasztowiec.h"
+
+1575106537 source:c:\users\admin\desktop\statki23_35\plansza.cpp
+	<iostream>
+	<cmath>
+	"Plansza.h"
+
+1575034548 source:c:\users\admin\desktop\statki23_35\statek.cpp
+	<iostream>
+	<cmath>
+	"Statek.h"
+
+1575120065 source:c:\users\karol\downloads\statki10\jednomasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Jednomasztowiec.h"
+
+1575120065 c:\users\karol\downloads\statki10\jednomasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575074468 c:\users\karol\downloads\statki10\statek.h
+	<iostream>
+	<cmath>
+
+1575138188 source:c:\users\karol\downloads\statki10\main.cpp
+	<iostream>
+	<cmath>
+	"Plansza.h"
+	"Jednomasztowiec.h"
+	"Statek.h"
+	"Dwumasztowiec.h"
+	"Trzymasztowiec.h"
+	"Czteromasztowiec.h"
+	"Pieciomasztowiec.h"
+	"Gracz.h"
+
+1575125979 c:\users\karol\downloads\statki10\plansza.h
+	<iostream>
+	<cmath>
+	"Jednomasztowiec.h"
+	"Dwumasztowiec.h"
+	"Trzymasztowiec.h"
+	"Czteromasztowiec.h"
+	"Pieciomasztowiec.h"
+
+1575138409 source:c:\users\karol\downloads\statki10\plansza.cpp
+	<iostream>
+	<cmath>
+	"Plansza.h"
+
+1575074468 source:c:\users\karol\downloads\statki10\statek.cpp
+	<iostream>
+	<cmath>
+	"Statek.h"
+
+1575121015 source:c:\users\karol\downloads\statki10\czteromasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Czteromasztowiec.h"
+
+1575121015 source:c:\users\karol\downloads\statki10\dwumasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Dwumasztowiec.h"
+
+1575130808 source:c:\users\karol\downloads\statki10\gracz.cpp
+	<iostream>
+	<cmath>
+	"Gracz.h"
+
+1575121015 source:c:\users\karol\downloads\statki10\pieciomasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Pieciomasztowiec.h"
+
+1575121015 source:c:\users\karol\downloads\statki10\trzymasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Trzymasztowiec.h"
+
+1575121015 c:\users\karol\downloads\statki10\czteromasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575121015 c:\users\karol\downloads\statki10\dwumasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575121015 c:\users\karol\downloads\statki10\pieciomasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575121015 c:\users\karol\downloads\statki10\trzymasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575130808 c:\users\karol\downloads\statki10\gracz.h
+	<iostream>
+	<cmath>
+
+1575125210 source:c:\users\admin\desktop\statki\czteromasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Czteromasztowiec.h"
+
+1575125210 c:\users\admin\desktop\statki\czteromasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575125214 c:\users\admin\desktop\statki\statek.h
+	<iostream>
+	<cmath>
+
+1575125210 source:c:\users\admin\desktop\statki\dwumasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Dwumasztowiec.h"
+
+1575125210 c:\users\admin\desktop\statki\dwumasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575125210 source:c:\users\admin\desktop\statki\gracz.cpp
+	<iostream>
+	<cmath>
+	"Gracz.h"
+
+1575195311 c:\users\admin\desktop\statki\gracz.h
+	<iostream>
+	<cmath>
+
+1575125210 source:c:\users\admin\desktop\statki\jednomasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Jednomasztowiec.h"
+
+1575125210 c:\users\admin\desktop\statki\jednomasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575125214 source:c:\users\admin\desktop\statki\pieciomasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Pieciomasztowiec.h"
+
+1575125214 c:\users\admin\desktop\statki\pieciomasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575125214 source:c:\users\admin\desktop\statki\statek.cpp
+	<iostream>
+	<cmath>
+	"Statek.h"
+
+1575125218 source:c:\users\admin\desktop\statki\trzymasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Trzymasztowiec.h"
+
+1575125218 c:\users\admin\desktop\statki\trzymasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575125214 source:c:\users\admin\desktop\statki\plansza.cpp
+	<iostream>
+	<cmath>
+	"Plansza.h"
+
+1575195363 c:\users\admin\desktop\statki\plansza.h
+	<iostream>
+	<cmath>
+	"Jednomasztowiec.h"
+	"Dwumasztowiec.h"
+	"Trzymasztowiec.h"
+	"Czteromasztowiec.h"
+	"Pieciomasztowiec.h"
+
+1575203340 source:c:\users\admin\desktop\statki\main.cpp
+	<iostream>
+	<cmath>
+	"Plansza.h"
+	"Jednomasztowiec.h"
+	"Statek.h"
+	"Dwumasztowiec.h"
+	"Trzymasztowiec.h"
+	"Czteromasztowiec.h"
+	"Pieciomasztowiec.h"
+	"Gracz.h"
+	"Menu.h"
+
+1575113722 source:c:\users\karol\downloads\statki\czteromasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Czteromasztowiec.h"
+
+1575113722 c:\users\karol\downloads\statki\czteromasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575113726 c:\users\karol\downloads\statki\statek.h
+	<iostream>
+	<cmath>
+
+1575113722 source:c:\users\karol\downloads\statki\dwumasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Dwumasztowiec.h"
+
+1575113722 c:\users\karol\downloads\statki\dwumasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575113722 source:c:\users\karol\downloads\statki\gracz.cpp
+	<iostream>
+	<cmath>
+	"Gracz.h"
+
+1575113722 c:\users\karol\downloads\statki\gracz.h
+	<iostream>
+	<cmath>
+
+1575113722 source:c:\users\karol\downloads\statki\jednomasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Jednomasztowiec.h"
+
+1575113722 c:\users\karol\downloads\statki\jednomasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575113726 source:c:\users\karol\downloads\statki\pieciomasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Pieciomasztowiec.h"
+
+1575113726 c:\users\karol\downloads\statki\pieciomasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575113726 source:c:\users\karol\downloads\statki\plansza.cpp
+	<iostream>
+	<cmath>
+	"Plansza.h"
+
+1575113728 c:\users\karol\downloads\statki\plansza.h
+	<iostream>
+	<cmath>
+	"Jednomasztowiec.h"
+	"Dwumasztowiec.h"
+	"Trzymasztowiec.h"
+	"Czteromasztowiec.h"
+	"Pieciomasztowiec.h"
+
+1575113728 c:\users\karol\downloads\statki\trzymasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575113726 source:c:\users\karol\downloads\statki\statek.cpp
+	<iostream>
+	<cmath>
+	"Statek.h"
+
+1575113726 source:c:\users\karol\downloads\statki\trzymasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Trzymasztowiec.h"
+
+1575149837 source:c:\users\karol\downloads\statki\menu.cpp
+	<fstream>
+	<string>
+	<iostream>
+	<cmath>
+	"Menu.h"
+
+1575149785 c:\users\karol\downloads\statki\menu.h
+	<fstream>
+	<string>
+	<iostream>
+	<cmath>
+
+1575149859 source:c:\users\karol\downloads\statki\main.cpp
+	<iostream>
+	<cmath>
+	"Plansza.h"
+	"Jednomasztowiec.h"
+	"Statek.h"
+	"Dwumasztowiec.h"
+	"Trzymasztowiec.h"
+	"Czteromasztowiec.h"
+	"Pieciomasztowiec.h"
+	"Gracz.h"
+	"Menu.h"
+
+1575113722 source:c:\users\karol\desktop\statki\czteromasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Czteromasztowiec.h"
+
+1575113722 c:\users\karol\desktop\statki\czteromasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575113722 source:c:\users\karol\desktop\statki\dwumasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Dwumasztowiec.h"
+
+1575113722 c:\users\karol\desktop\statki\dwumasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575156471 source:c:\users\karol\desktop\statki\gracz.cpp
+	<iostream>
+	<cmath>
+	"Gracz.h"
+
+1575156471 c:\users\karol\desktop\statki\gracz.h
+	<iostream>
+	<cmath>
+
+1575113722 source:c:\users\karol\desktop\statki\jednomasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Jednomasztowiec.h"
+
+1575113722 c:\users\karol\desktop\statki\jednomasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575156471 source:c:\users\karol\desktop\statki\menu.cpp
+	<fstream>
+	<string>
+	<iostream>
+	<cmath>
+	"Menu.h"
+
+1575156471 c:\users\karol\desktop\statki\menu.h
+	<fstream>
+	<string>
+	<iostream>
+	<cmath>
+
+1575113726 source:c:\users\karol\desktop\statki\pieciomasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Pieciomasztowiec.h"
+
+1575113726 c:\users\karol\desktop\statki\pieciomasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575157430 source:c:\users\karol\desktop\statki\plansza.cpp
+	<iostream>
+	<cmath>
+	"Plansza.h"
+
+1575157404 c:\users\karol\desktop\statki\plansza.h
+	<iostream>
+	<cmath>
+	"Jednomasztowiec.h"
+	"Dwumasztowiec.h"
+	"Trzymasztowiec.h"
+	"Czteromasztowiec.h"
+	"Pieciomasztowiec.h"
+
+1575113728 c:\users\karol\desktop\statki\trzymasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575113726 source:c:\users\karol\desktop\statki\trzymasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Trzymasztowiec.h"
+
+1575125214 c:\users\admin\desktop\statki\menu.h
+	<fstream>
+	<string>
+	<iostream>
+	<cmath>
+
+1575214076 source:c:\users\admin\desktop\statki\menu.cpp
+	<fstream>
+	<string>
+	<iostream>
+	<cmath>
+	"Menu.h"
+
+1575125210 source:c:\users\admin\desktop\wojciechowska_141336_mirkiewicz_141285\czteromasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Czteromasztowiec.h"
+
+1575125210 c:\users\admin\desktop\wojciechowska_141336_mirkiewicz_141285\czteromasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575125214 c:\users\admin\desktop\wojciechowska_141336_mirkiewicz_141285\statek.h
+	<iostream>
+	<cmath>
+
+1575125210 source:c:\users\admin\desktop\wojciechowska_141336_mirkiewicz_141285\dwumasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Dwumasztowiec.h"
+
+1575125210 c:\users\admin\desktop\wojciechowska_141336_mirkiewicz_141285\dwumasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575125210 source:c:\users\admin\desktop\wojciechowska_141336_mirkiewicz_141285\gracz.cpp
+	<iostream>
+	<cmath>
+	"Gracz.h"
+
+1575195311 c:\users\admin\desktop\wojciechowska_141336_mirkiewicz_141285\gracz.h
+	<iostream>
+	<cmath>
+
+1575125210 source:c:\users\admin\desktop\wojciechowska_141336_mirkiewicz_141285\jednomasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Jednomasztowiec.h"
+
+1575125210 c:\users\admin\desktop\wojciechowska_141336_mirkiewicz_141285\jednomasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575214076 source:c:\users\admin\desktop\wojciechowska_141336_mirkiewicz_141285\menu.cpp
+	<fstream>
+	<string>
+	<iostream>
+	<cmath>
+	"Menu.h"
+
+1575125214 c:\users\admin\desktop\wojciechowska_141336_mirkiewicz_141285\menu.h
+	<fstream>
+	<string>
+	<iostream>
+	<cmath>
+
+1575125214 source:c:\users\admin\desktop\wojciechowska_141336_mirkiewicz_141285\pieciomasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Pieciomasztowiec.h"
+
+1575125214 c:\users\admin\desktop\wojciechowska_141336_mirkiewicz_141285\pieciomasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575125214 source:c:\users\admin\desktop\wojciechowska_141336_mirkiewicz_141285\plansza.cpp
+	<iostream>
+	<cmath>
+	"Plansza.h"
+
+1575195363 c:\users\admin\desktop\wojciechowska_141336_mirkiewicz_141285\plansza.h
+	<iostream>
+	<cmath>
+	"Jednomasztowiec.h"
+	"Dwumasztowiec.h"
+	"Trzymasztowiec.h"
+	"Czteromasztowiec.h"
+	"Pieciomasztowiec.h"
+
+1575125218 c:\users\admin\desktop\wojciechowska_141336_mirkiewicz_141285\trzymasztowiec.h
+	"Statek.h"
+	<iostream>
+	<cmath>
+
+1575125214 source:c:\users\admin\desktop\wojciechowska_141336_mirkiewicz_141285\statek.cpp
+	<iostream>
+	<cmath>
+	"Statek.h"
+
+1575125218 source:c:\users\admin\desktop\wojciechowska_141336_mirkiewicz_141285\trzymasztowiec.cpp
+	<iostream>
+	<cmath>
+	"Trzymasztowiec.h"
+

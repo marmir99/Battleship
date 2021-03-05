@@ -1,0 +1,6 @@
+Zasady gry:
+Gra toczy sie na planszy, bedacej tablica 10x10. Kazdy gracz posiada wlasna plansze, na ktorej ustawia statki. Po ustawieniu statkow gracze na zmiane do siebie strzelaja, jesli ktorys z nich trafi nalezy mu sie kolejny strzal, az do pudla. Gra konczy sie w momencie w ktorym jeden z graczy zatopi wszystkie statki przeciwnika.
+
+Zasady ustawiania statkow:
+Statki ustawiane sa w ustalonej kolesjnosci. Najpierw ustawia gracz pierwszy, potem drugi. Kazdy z nich zaczyna od ustawienia jednego pieciomasztowca, nastepnie dwoch czteromasztowcow, trzech trzymasztowcow, czterech dwumasztowcow oraz pieciu jednomasztowcow. Gracz proszony jest o podanie jednej wspolrzednej dla statkow jednomasztowych oraz wspolrzednych poczatku i konca dla pozostalych statkow. Kazda wspolrzedna tworzymy przez podanie numeru wiersza oraz kolumny jako jednej liczby dwucyfrowej (np. dla wiersza 2 i kolumny 5 podamy 25). Statki nie moga dotykac sie bokiem ani rogami. 
+Jesli w ktoryms momencie gracz stwierdzi, ze nie zmiesci wszystkich statkow w celu resetu nalezy podac 11111 (piec jedynek).
